@@ -1,0 +1,26 @@
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+<xsd:element name="items" type="itrecord"/>
+
+  <xsd:complexType name="itrecord">
+    <xsd:sequence>
+	<xsd:element name="it" minOccurs="0" maxOccurs="unbounded">
+			<xsd:complexType>
+			<xsd:sequence>
+     			 <xsd:element name="idit" type="xsd:int"/>
+      			 <xsd:element name="tid" type="xsd:int"/>
+      			 <xsd:element name="name" type="xsd:string"/>
+     			 <xsd:element name="s" type="xsd:int"/>
+      			 <xsd:element name="a" type="xsd:int"/>
+      			 <xsd:element name="e" type="xsd:int"/>
+      			 <xsd:element name="i" type="xsd:int"/>
+     			 <xsd:element name="ps" type="xsd:int"/>
+      			 <xsd:element name="pa" type="xsd:int"/>
+     			 <xsd:element name="pe" type="xsd:int"/>
+     			 <xsd:element name="pi" type="xsd:int"/>
+			 </xsd:sequence>
+  			</xsd:complexType>
+	</xsd:element>
+    </xsd:sequence>
+  </xsd:complexType>
+</xsd:schema>

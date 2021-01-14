@@ -1,0 +1,13 @@
+true
+2
+warrior armour
+2
+1
+0
+3
+0
+0
+0
+0
+0
+0

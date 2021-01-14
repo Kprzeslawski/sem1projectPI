@@ -1,0 +1,13 @@
+true
+5
+warrior helmet
+5
+1
+0
+3
+0
+0
+0
+0
+0
+0

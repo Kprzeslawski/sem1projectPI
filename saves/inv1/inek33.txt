@@ -1,0 +1,13 @@
+true
+3
+archer leggins
+3
+1
+2
+0
+1
+0
+0
+0
+0
+0
